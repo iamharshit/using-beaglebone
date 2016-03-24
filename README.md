@@ -15,5 +15,5 @@ sudo iwconfig wlan2 essid D-Link_DIR-816
 sudo dhclient wlan2
 ```
 
-note: * if wlan2 is not working in ur case try using wlan1 or wlan0
-      * D-Link_DIR-816 is the name of wifi router it may be diff in ur case 
+Note: * if wlan2 is not working in ur case try using wlan1 or wlan0.
+      * D-Link_DIR-816 is the name of wifi router it may be diff in ur case. 
