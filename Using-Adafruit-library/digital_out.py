@@ -8,5 +8,7 @@ GPIO.setup(outPin,GPIO.OUT)
 for i in range(0,5):
       GPIO.output(outPin,GPIO.HIGH)
       sleep(1)
+      GPIO.output(outPin,GPIO.LOW)
+      sleep(1)
 
 GPIO.cleanup()
