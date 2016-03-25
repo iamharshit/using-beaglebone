@@ -1,3 +1,5 @@
+#output can only be high(3.3V) or low(0V)
+
 import Adafruit_BBIO.GPIO as GPIO
 from time import sleep
 
