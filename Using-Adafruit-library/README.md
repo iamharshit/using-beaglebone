@@ -2,4 +2,3 @@
 
 ![image](http://beagleboard.org/static/images/cape-headers.png)
 
-<img src="http://beagleboard.org/static/images/cape-headers.png" width="750px" height="500px">
